@@ -72,4 +72,11 @@
    
    切换分支 
    git checkout dev|master
+   
+   分支提交远程仓库
+   (先add commit)
+   git pull origin dev(分支名)
+   
+   分支 dev 合并到 master
+   git merge dev
 ```
