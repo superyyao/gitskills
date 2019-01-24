@@ -65,4 +65,11 @@
 	或者
    git branch dev
    git checkout dev
+   
+   git branch查看分支   
+   * dev
+     master
+   
+   切换分支 
+   git checkout dev|master
 ```
