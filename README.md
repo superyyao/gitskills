@@ -57,3 +57,12 @@
 
 ## 分支管理
 1. 创建与合并分支
+
+```  
+   创建dev分支 然后切换 dev 分支
+   -b 参数表示创建并切换
+   git checkout -b dev
+	或者
+   git branch dev
+   git checkout dev
+```
