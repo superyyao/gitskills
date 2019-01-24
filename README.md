@@ -78,5 +78,10 @@
    git pull origin dev(分支名)
    
    分支 dev 合并到 master
+   (先切换到master)
    git merge dev
+   
+   删除分支
+   git branch -d dev
+  
 ```
